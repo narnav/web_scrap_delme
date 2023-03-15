@@ -1,0 +1,4 @@
+faea538 HEAD@{0}: commit: add .gitignore
+1e66dde HEAD@{1}: commit: add readme
+af5e6fc HEAD@{2}: commit: multi request
+da7d4f3 HEAD@{3}: commit (initial): first request tested
